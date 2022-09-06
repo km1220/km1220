@@ -24,7 +24,8 @@
 <table>
   <tr>
     <td valign="top" width="25%">
-      ### Frontend
+
+### Frontend
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
           ><img
@@ -145,7 +146,8 @@
       </div>
     </td>
     <td valign="top" width="25%">
-      ### Backend
+
+### Backend
       <div align="center">
         <a href="https://www.cplusplus.com/" target="_blank"
           ><img
@@ -322,7 +324,8 @@
       </div>
     </td>
     <td valign="top" width="25%">
-      ### DevOps & CMS
+
+### DevOps & CMS
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
           ><img
@@ -439,7 +442,8 @@
       </div>
     </td>
     <td valign="top" width="25%">
-      ### Mobile
+    
+### Mobile
       <div align="center">
         <a href="https://dart.dev/" target="_blank"
           ><img
