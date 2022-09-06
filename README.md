@@ -7,10 +7,10 @@
 </div>
 
 ###
-<div align="center">
+<h3 align="center">
   I'm EliteVeteran, a Professional Web & Mobile & Blockchain developer 👨‍💻
   working remotely since 2013 🚀
-</div>
+</h3>
 
 - 🔭 I’m currently working on [Github](https://github.com/km1220) - 🌱 I’m
 currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything
