@@ -6,17 +6,15 @@
   />
 </div>
 
-###
-
-<div align="center">
+<h2 align="center">
   I'm EliteVeteran, a Professional Web & Mobile & Blockchain developer 👨‍💻
   working remotely since 2013 🚀
-</div>
+</h2>
 
-- 🔭 I’m currently working on [Github](https://github.com/km1220) - 🌱 I’m
+<h4>🔭 I’m currently working on [Github](https://github.com/km1220) - 🌱 I’m
   currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything
   related to MERN stack, Mobile App, Blockchain, and related technologies - ⚡ Fun
-  fact: I Speed id the most important thing in Development
+  fact: I Speed id the most important thing in Development</h4>
 
 <br />
 
@@ -25,7 +23,7 @@
 <table>
   <tr>
     <td valign="top" width="25%">
-      <h3>### Frontend</h3>
+      <h3>Frontend</h3>
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
           ><img
@@ -146,7 +144,7 @@
       </div>
     </td>
     <td valign="top" width="25%">
-      <h3>### Backend</h3>
+      <h3>Backend</h3>
       <div align="center">
         <a href="https://www.cplusplus.com/" target="_blank"
           ><img
@@ -323,7 +321,7 @@
       </div>
     </td>
     <td valign="top" width="25%">
-      <h3>### DevOps & CMS</h3>
+      <h3>DevOps & CMS</h3>
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
           ><img
@@ -440,7 +438,7 @@
       </div>
     </td>
     <td valign="top" width="25%">
-      <h3>### Mobile</h3>
+      <h3>Mobile</h3>
       <div align="center">
         <a href="https://dart.dev/" target="_blank"
           ><img
