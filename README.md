@@ -2,7 +2,7 @@
   <img
     src="./global-software-developer-talent.jpeg"
     align="center"
-    style="width: 100%"
+    style="width: 70%"
   />
 </div>
 
@@ -24,7 +24,9 @@
 <table>
   <tr>
     <td valign="top" width="25%">
+      
       ### Frontend
+      
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
           ><img
@@ -145,7 +147,9 @@
       </div>
     </td>
     <td valign="top" width="25%">
+      
       ### Backend
+      
       <div align="center">
         <a href="https://www.cplusplus.com/" target="_blank"
           ><img
@@ -322,7 +326,9 @@
       </div>
     </td>
     <td valign="top" width="25%">
+      
       ### DevOps & CMS
+      
       <div align="center">
         <a href="https://aws.amazon.com/" target="_blank"
           ><img
@@ -439,7 +445,9 @@
       </div>
     </td>
     <td valign="top" width="25%">
+      
       ### Mobile
+      
       <div align="center">
         <a href="https://dart.dev/" target="_blank"
           ><img
@@ -521,8 +529,3 @@
 
 <br />
 
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-If things goes well, this section should automatically be replaced by a list of
-your blog posts after you commit your readme file.
-<!-- BLOG-POST-LIST:END -->
