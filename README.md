@@ -6,16 +6,17 @@
   />
 </div>
 
-###
+##
 <h3 align="center">
   I'm EliteVeteran, a Professional Web & Mobile & Blockchain developer 👨‍💻
   working remotely since 2013 🚀
 </h3>
 
-- 🔭 I’m currently working on [Github](https://github.com/km1220) - 🌱 I’m
-currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything
-related to MERN stack, Mobile App, Blockchain, and related technologies - ⚡ Fun
-fact: I Speed id the most important thing in Development
+###
+- 🔭 I’m currently working on [Github](https://github.com/km1220) 
+- 🌱 I’m currently learning Hyper-ledger and Kubernetes 
+- ❓ Ask me about anything related to MERN stack, Mobile App, Blockchain, and related technologies 
+- ⚡ Fun fact: SPEED is the most important thing in Development
 
 <br />
 
